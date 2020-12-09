@@ -1,6 +1,6 @@
 #' Vegetation Bin Filter Experiment
 #'
-#' The bins data set comes from the Arizona Bureau of Reclamation, who
+#' The wetlands vegetation data set comes from the Arizona Bureau of Reclamation, who
 #' operated 7 pilot-scale vertical flow treatment wetlands (VFTW)
 #' systems in order to identify the best treatment configuration for
 #' reverse osmosis brine. Grab samples were sampled intermittently
@@ -50,4 +50,4 @@
 #'        , inset=c( .05,.05), bty="n" )
 #' title( "Bin1 flow measurments")
 #'
-"bins"
+"wetlands_veg"
