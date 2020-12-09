@@ -1,4 +1,4 @@
-#' MoWaTER
+#' MoWaTER (current!)
 #'
 #' Data Sets from the Modernizing Water and Wastewater Treatment
 #' through Data Science Education and Research Team.

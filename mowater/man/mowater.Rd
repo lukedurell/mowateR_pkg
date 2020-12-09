@@ -3,7 +3,7 @@
 \docType{package}
 \name{mowater}
 \alias{mowater}
-\title{MoWaTER}
+\title{MoWaTER (current!)}
 \description{
 Data Sets from the Modernizing Water and Wastewater Treatment
 through Data Science Education and Research Team.
